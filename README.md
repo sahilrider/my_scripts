@@ -13,5 +13,4 @@ and more !
 
 ### Constributions are welcome !
 
-Created by srbcheema1
-https://github.com/srbcheema1
+Created by [srbcheema1](https://github.com/srbcheema1)
